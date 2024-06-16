@@ -8,3 +8,4 @@ I've been wanting to do a project to play around with the Ynvisible electrochrom
 
 ![electronic_counter_concept](https://github.com/groundst8/tcg-counter/assets/53413353/7b87b772-639f-45e6-b7d9-5978f38ef246)
 
+The concept image uses some Wizards of the Coast trademarked images for added coolness factor, but unless some kind of licensing is done or Wizards wants to get involved (let me know haha) that stuff will have to be removed and likely will just be plain text. The sleeve specs will be made available so people can customize and make their own personal designs as well.
