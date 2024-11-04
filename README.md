@@ -6,6 +6,19 @@ I've been wanting to do a project to play around with the Ynvisible electrochrom
 
 ## Concept
 
+### Iteration 2
+![concept2_cropped](https://github.com/user-attachments/assets/944749b3-259d-4de7-9fee-6c9ffb457b51)
+
+- Punched card that fits in standard card sleve with PCB rather than a cardboard sleeve
+  - Can easily make custom styles using proxy card companies like makeplayingcards.com
+  - More ESD considerations when using plastic vs cardboard for enclosure
+- Changed to two 7 segment display
+  - Technical constraints meant using a single display was no longer really saving any work
+  - Counters up to 99 instead of 9 provides a lot more value
+- Added more counter modification tools in app
+  - Doubling
+
+### Iteration 1
 ![electronic_counter_concept](https://github.com/groundst8/tcg-counter/assets/53413353/7b87b772-639f-45e6-b7d9-5978f38ef246)
 
 The concept image uses some Wizards of the Coast trademarked images for added coolness factor, but unless some kind of licensing is done or Wizards wants to get involved (let me know haha) that stuff will have to be removed and likely will just be plain text. The sleeve specs will be made available so people can customize and make their own personal designs as well. See the [tcg-counter-sleeve repo](https://github.com/groundst8/tcg-counter-sleeve) for more information.
